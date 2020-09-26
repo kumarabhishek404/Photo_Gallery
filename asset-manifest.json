@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Home%20Photo%20Gallery/static/css/main.e7427e35.chunk.css",
+    "main.js": "/Home%20Photo%20Gallery/static/js/main.d8cd926d.chunk.js",
+    "main.js.map": "/Home%20Photo%20Gallery/static/js/main.d8cd926d.chunk.js.map",
+    "runtime-main.js": "/Home%20Photo%20Gallery/static/js/runtime-main.a7c211fb.js",
+    "runtime-main.js.map": "/Home%20Photo%20Gallery/static/js/runtime-main.a7c211fb.js.map",
+    "static/js/2.652f344d.chunk.js": "/Home%20Photo%20Gallery/static/js/2.652f344d.chunk.js",
+    "static/js/2.652f344d.chunk.js.map": "/Home%20Photo%20Gallery/static/js/2.652f344d.chunk.js.map",
+    "index.html": "/Home%20Photo%20Gallery/index.html",
+    "precache-manifest.d3a2a80a70d916ddb69e6c1158d5953e.js": "/Home%20Photo%20Gallery/precache-manifest.d3a2a80a70d916ddb69e6c1158d5953e.js",
+    "service-worker.js": "/Home%20Photo%20Gallery/service-worker.js",
+    "static/css/main.e7427e35.chunk.css.map": "/Home%20Photo%20Gallery/static/css/main.e7427e35.chunk.css.map",
+    "static/js/2.652f344d.chunk.js.LICENSE.txt": "/Home%20Photo%20Gallery/static/js/2.652f344d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7c211fb.js",
+    "static/js/2.652f344d.chunk.js",
+    "static/css/main.e7427e35.chunk.css",
+    "static/js/main.d8cd926d.chunk.js"
+  ]
+}
