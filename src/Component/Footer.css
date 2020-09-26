@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer_container {
+    background-color: #000000;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+}
+.contact_container {
+    padding: 1rem;
+    display: flex;
+    flex-flow: column;
+}
+.contact_heading {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+}
+.contact_form form {
+    padding: 10px;;
+}
+.contact_form input {
+    outline: none;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 0 0 16px 10px;
+    border: 2px solid rgb(177, 166, 166);
+}
+
+/* Social Container */
+.social {
+    padding: 10px 10px;
+    display: flex;
+    flex-flow: row;
+}
+.social_logo {
+    margin-bottom: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33%;
+}
+.websites_rights {
+    margin-bottom: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33%;
+}
+.social_media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 33%;
+    padding: 6px 8px;
+}
+.social_media_icons {
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+.fab {
+    color: #fff;
+    font-size: 2rem;
+}
+
+/* About container */
+.about_container {
+    padding: 10px;
+    display: flex;
+    flex-flow: row;
+}
+.address {
+    padding: 15px;
+    width: 33%;
+}
+.contacts {
+    padding: 15px;
+    margin: auto;
+    width: 17%;
+}
+.contacts p {
+    float: left;
+}
+.quatation {
+    padding: 15px;
+}
+
+
+@media screen and (max-width: 750px) {
+    .social {
+        height: 40vw;
+        flex-flow: column;
+    }
+    .social_logo {
+        width: 100%;
+    }
+    .websites_rights {
+        width: 100%;
+        margin-left: 0;
+    }
+    .social_media{
+        width: 100%;
+    }
+    .contact_form input {
+        width: 60%;
+    }
+    .about_container {
+        margin-top: 2.5rem;
+        flex-flow: column;
+    }
+    .address {
+        margin: auto;
+        width: 60%;
+    }
+    .contacts {
+        width: 90%;
+    }
+    .quatation {
+        margin: auto;
+        width: 60%;
+    }
+}
