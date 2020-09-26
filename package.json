@@ -1,6 +1,6 @@
 {
-  "homepage": "http://kumarabhishek404.github.io/Home Photo Gallery",
-  "name": "portfolio",
+  "homepage": "http://kumarabhishek404.github.io/Photo_Gallery",
+  "name": "Photo_Gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
